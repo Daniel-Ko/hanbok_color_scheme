@@ -1,0 +1,26 @@
+"schemes":
+[
+  {
+    "name": "Hanbok",
+    "background": "#F5E6D3",
+    "foreground": "#2D1810",
+    "cursorColor": "#E16B8C",
+    "selectionBackground": "#E16B8C",
+    "black": "#2D2926",
+    "red": "#BF2A37",
+    "green": "#1B813E",
+    "yellow": "#C4A87A",
+    "blue": "#416CA4",
+    "purple": "#8B4789",
+    "cyan": "#5DA3A8",
+    "white": "#DCD3C1",
+    "brightBlack": "#5B5752",
+    "brightRed": "#E74C54",
+    "brightGreen": "#27C15E",
+    "brightYellow": "#E5D19B",
+    "brightBlue": "#5D8BC5",
+    "brightPurple": "#AD5CA6",
+    "brightCyan": "#7EC4C9",
+    "brightWhite": "#F5EFE7"
+  }
+]
